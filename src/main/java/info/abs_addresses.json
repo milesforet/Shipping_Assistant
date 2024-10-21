@@ -1,0 +1,49 @@
+{
+  "CA": {
+
+    "9600 Center Ave": {
+      "Street": "9600 Center Ave",
+      "Street 2": "Ste 160",
+      "City": "Rancho Cucamonga",
+      "State": "CA",
+      "Zip Code": "91730"
+    }
+  },
+
+  "NC": {
+    "2711 Randolph": {
+      "Street": "2711 Randolph Rd",
+      "Street 2": "Suite 100",
+      "City": "Charlotte",
+      "State": "NC",
+      "Zip Code": "28207"
+    },
+    "11010 David Taylor": {
+      "Street": "11010 David Taylor Dr",
+      "City": "Charlotte",
+      "State": "NC",
+      "Zip Code": "28262"
+    }
+  },
+
+  "SC": {
+    "197 Piedmont Blvd": {
+      "Street": "197 Piedmont Blvd",
+      "Street 2": "#111",
+      "City": ", Rock Hill",
+      "State": "SC",
+      "Zip Code": "29732"
+    }
+  },
+
+  "UT" : {
+    "240 East Morris Ave": {
+      "Street": "240 East Morris Ave",
+      "Street 2": "Suite 100",
+      "City": "Salt Lake City",
+      "State": "UT",
+      "Zip Code": "84115"
+    }
+  }
+
+}
